@@ -1,4 +1,4 @@
-# googlemapImageToTrainTransitWayPoints
+# django channels simple chat app
 
 ##virtualenv -p python3 env
 
